@@ -30,22 +30,4 @@ In a competitive market like the restaurant industry, understanding the factors 
 - **Jupyter Notebook**
 - **SQLite**
 
-## Directory Structure
-Table-Talk/
-├── data/
-│ ├── business.json
-│ ├── review.json
-│ ├── user.json
-│ ├── tip.json
-│ ├── checkin.json
-├── notebooks/
-│ ├── 01_data_preparation.ipynb
-│ ├── 02_data_analysis.ipynb
-│ ├── 03_visualizations.ipynb
-├── src/
-│ ├── data_preparation.py
-│ ├── analysis.py
-│ ├── visualizations.py
-├── README.md
-├── requirements.txt
-├── database.db
+
